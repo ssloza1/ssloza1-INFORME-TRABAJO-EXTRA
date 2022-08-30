@@ -88,7 +88,7 @@ Cuando la bobina gira la corriente pasa por el lado cercano ala bobina y cuando 
 
 ## 6. CONCLUSIONES:
 
-•	El generador eelectrico manual es uan de las herramientas que todo ser humano deberia conocer ya que al ser una proposición de energia renovable es una de las fuentes de energia muy interesantes al momento de implementarlos en un inmueble.
+•	El generador electrico manual es uan de las herramientas que todo ser humano deberia conocer ya que al ser una proposición de energia renovable es una de las fuentes de energia muy interesantes al momento de implementarlos en un inmueble.
 
 •	El dinamo es un componente importante en el generador de energia y conocer sus componentes lo hace muy imoportante ya que contiene muchos componetes internos y cada un ode ellos tiene una funcion se debe aprender el funcionamiento de este y recordar la teoria de como usarlo.
 
