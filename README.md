@@ -88,15 +88,15 @@ Cuando la bobina gira la corriente pasa por el lado cercano ala bobina y cuando 
 
 ## 6. CONCLUSIONES:
 
-•	La teoria de transferencia maxima de potencia comprende una rama importante en la realizacion de ejercicios de fundamientos de circuitos lo cual se compone de caracteristicas aprendidas anterioremente es importante tomar en cuaenta cuando se tenga dudas de las resoluciones de ejercicios de circuitos paralelos.
+•	El generador eelectrico manual es uan de las herramientas que todo ser humano deberia conocer ya que al ser una proposición de energia renovable es una de las fuentes de energia muy interesantes al momento de implementarlos en un inmueble.
 
-•	La resolución de ejercicios aplicando la teoria de maxima transferencia de potencia es tambien tener en cuenta los metodos aprendidos aplicados en las leyes de kirchoff el teorema indica que debes separar por partes cada malla del circuito.
+•	El dinamo es un componente importante en el generador de energia y conocer sus componentes lo hace muy imoportante ya que contiene muchos componetes internos y cada un ode ellos tiene una funcion se debe aprender el funcionamiento de este y recordar la teoria de como usarlo.
 
 ## 7. RECOMENDACIONES:
 
-• Al momento de realizar los cálculos tener en cuenta el tipo de multímetro y en que parte del multímetro se desea hacer la consulta ya que si se hace mal uso de este se podría perder el multímetro las protoboards tratar de distribuir bien sus funciones y no poner todo en un solo lugar.
+• Al momento de la contruccion del generador tener muy en cuenta las medidas que sean exactas o cernas ya que asi hara que el generador no produsca fallos y este resulte en un producto bien hecho.
 
-• En los cálculos tener muy en cuenta la formula del teorema de Thevenin ya que se desean los cálculos aplicando ese método tomar en cuenta la interrogante que nos pide encontrar y realizar cálculos preciosos, los componentes de experimento tener en cuenta y revisarlos antes de ponerlos en usa controlar el voltaje de entrada y realizar el trabajo con las indicaciones correspondientes.
+• Al unir los componentes que requieren cautin tener en cuenta las precauciones de su uso ya que puede causar accidentes el uso de este tambuien del estaño al momento de armar el generador tomar en cuenta que las luces deben variar sus polos de conexión.
 
 ## 8. BIBLIOGRAFÍA:
 
