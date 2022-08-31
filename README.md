@@ -40,30 +40,6 @@ Un generador es una máquina eléctrica rotativa que transforma energía mecáni
 
 ![image](https://user-images.githubusercontent.com/105320981/187357501-249c51b1-b0ae-4683-9bbf-a85ddd49e74b.png)
 
- ## Materiales
- 
- • Un dinamo 
- 
- • Carton 
- 
- • tijera
- 
- • Silicona (en barra)
- 
- • Cables
- 
- • 2 luces led (roja y verde)
- 
- • Una liga 
- 
- • Cautin 
- 
- • 1 palo dep pincho 
-  
- • 1 paleta de helado
-   
- • pistola de silicona  
- 
  ### DINAMO:
  
 ¿Qué es un dinamo?
@@ -98,6 +74,30 @@ Cuando la bobina gira la corriente pasa por el lado cercano ala bobina y cuando 
 
 ## 4 PROCEDIMIENTO:
 
+## Materiales
+ 
+ • Un dinamo 
+ 
+ • Carton 
+ 
+ • tijera
+ 
+ • Silicona (en barra)
+ 
+ • Cables
+ 
+ • 2 luces led (roja y verde)
+ 
+ • Una liga 
+ 
+ • Cautin 
+ 
+ • 1 palo dep pincho 
+  
+ • 1 paleta de helado
+   
+ • pistola de silicona 
+ 
 ### Proyecto armado:
 
 ![image](https://user-images.githubusercontent.com/105320981/187362351-201daa36-1718-44da-b843-28bde137ee4a.png)
@@ -108,6 +108,7 @@ Cuando la bobina gira la corriente pasa por el lado cercano ala bobina y cuando 
 
 
 ## 5. VIDEO:
+
 
 
 ## 6. CONCLUSIONES:
