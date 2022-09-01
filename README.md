@@ -145,7 +145,7 @@ Cuando los cables cortan el campo magnético en los polos del imán se induce un
 
 ## 5. VIDEO:
 
-
+https://youtu.be/LVtBnG4eI9I
 
 ## 6. CONCLUSIONES:
 
