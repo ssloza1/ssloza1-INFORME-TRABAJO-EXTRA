@@ -38,7 +38,7 @@ Cuando la bobina gira la corriente pasa por el lado cercano ala bobina y cuando 
 
 ## 3 MARCO TEÓRICO:
 
-## Diagrama del dinamo 
+### Diagrama del dinamo 
 
 ![image](https://user-images.githubusercontent.com/105320981/187357501-249c51b1-b0ae-4683-9bbf-a85ddd49e74b.png)
 
