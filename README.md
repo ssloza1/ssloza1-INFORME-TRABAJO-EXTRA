@@ -34,6 +34,8 @@ FECHA
 
 Un generador es una máquina eléctrica rotativa que transforma energía mecánica en energía eléctrica. Lo consigue gracias a la interacción de sus componentes principales: el rotor (parte giratoria) y el estátor (parte estática).
 
+Cuando la bobina gira la corriente pasa por el lado cercano ala bobina y cuando este llega a la mitad del giro la corriente cambia y la intensidad de la corriente va cambiando desde cero hasta su valor máximo y luego vuelve a cero durante la otra media vuelta la corriente vuelve al sentido opuesto del que principalmente comenzó el proceso. Ya que los cables se mueven por el campo magnético en sentido opuesto este tipo de corriente se le conoce como corriente alterna porque cambia de sentido en cada ciclo.
+
 ## 3 MARCO TEÓRICO:
 
 ## Diagrama del dinamo 
@@ -69,7 +71,7 @@ Escobillas: contiene los cables los cuales vana recibir la corriente producida p
 Anillo colector:  son los que trasmiten la corriente a la escobilla la cual conecta con el núcleo de hierro y a la bobina.
 Cuando los cables cortan el campo magnético en los polos del imán se induce una corriente.
 
-Cuando la bobina gira la corriente pasa por el lado cercano ala bobina y cuando este llega a la mitad del giro la corriente cambia y la intensidad de la corriente va cambiando desde cero hasta su valor máximo y luego vuelve a cero durante la otra media vuelta la corriente vuelve al sentido opuesto del que principalmente comenzó el proceso. Ya que los cables se mueven por el campo magnético en sentido opuesto este tipo de corriente se le conoce como corriente alterna porque cambia de sentido en cada ciclo.
+![image](https://user-images.githubusercontent.com/105320981/187812123-cf61d2c4-32ec-4cef-9d04-2a29f9024ed5.png)
 
 
 ## 4 PROCEDIMIENTO:
@@ -98,9 +100,43 @@ Cuando la bobina gira la corriente pasa por el lado cercano ala bobina y cuando 
    
  • pistola de silicona 
  
+### Pasos:
+1. realizamos una circunferencia en el cartón con la ayuda de un compas . 
+2.  pegamos el la circunferencia entre los dos cd´s con la ayuda de una pistola de silicona.
+3. pinchamos el cartón que esta entre los dos cd´s 
+
+![image](https://user-images.githubusercontent.com/105320981/187811858-ac763b38-2594-4397-8962-c9ad553eaa03.png)
+![image](https://user-images.githubusercontent.com/105320981/187811866-239dd14c-53d8-4a51-8981-8b84ff69c8a3.png)
+![image](https://user-images.githubusercontent.com/105320981/187811873-7cce3772-c123-4328-99b3-8fac8c5f2d39.png)
+
+4. en el cartón dibujar un trapecio con la suficiente altura para que los cd´s  no rocen con la base del generador, cortamos el trapecio y replicamos 3 trapecios mas usando como molde el primer trapecio.
+5. pegamos los trapecios para que en total nos salgan dos trapecios. 
+6. pegamos en la  base de la que va a ser el generador 
+
+![image](https://user-images.githubusercontent.com/105320981/187811908-e5affe2b-66a5-469d-89ff-c442b92d8cdd.png)
+![image](https://user-images.githubusercontent.com/105320981/187811922-77db28ac-4004-4f6c-b171-5dc48872ad34.png)
+
+7. colocamos la liga en el primer trapecio y pinchamos el trapecio con la polea creada  con los cd´s y el cartón, lo colocamos en lo mas alto del trapecio. 
+8. Pegamos el otro lado del trapecio.
+9. colocamos dos triángulos rectángulos a cada lado de los trapecios para mas estabilidad
+10. a lado de un trapecio colocamos una manivela  creada a base de los palos de pincho y la paleta.
+
+![image](https://user-images.githubusercontent.com/105320981/187811983-690b0121-77cc-4443-8519-7ee1d2853d3f.png)
+![image](https://user-images.githubusercontent.com/105320981/187811992-a8dde256-d6d3-477c-b640-bfe5536a2618.png)
+
+11. pegamos el dinamo al lado de la polea pero que este simétrica al eje de giro del dinamo. 
+12. con la ayuda del cautín juntamos las 2 luces led pero alternando sus polos.
+
+![image](https://user-images.githubusercontent.com/105320981/187812057-f6da6821-61d4-4160-9d61-c5d795b85fad.png)
+![image](https://user-images.githubusercontent.com/105320981/187812073-97748dbb-e552-4739-9f85-911af5c4325d.png)
+
+
+
 ### Proyecto armado:
 
 ![image](https://user-images.githubusercontent.com/105320981/187362351-201daa36-1718-44da-b843-28bde137ee4a.png)
+
+![image](https://user-images.githubusercontent.com/105320981/187821609-049e733e-d38d-470d-810c-0cd8ab16fc2c.png)
 
 ![image](https://user-images.githubusercontent.com/105320981/187362477-819aa04d-8963-4613-95ca-05a07a7bead3.png)
 
